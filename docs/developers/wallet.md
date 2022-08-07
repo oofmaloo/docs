@@ -38,7 +38,7 @@ Wait to see if you get a confirmation that the
 tokens have been successfully sent. To check if
 tokens have arrived successfully to the destination
 wallet run the command below replacing the public
-address with your own:
+address with your own (requires running node):
 
 ```sh
 celestia-appd query bank balances celestia1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
